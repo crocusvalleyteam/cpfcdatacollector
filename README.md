@@ -1,6 +1,12 @@
+
+
+# project moved to thecroydonproject (https://github.com/thecroydonproject) acccount
+
+
 # cpfcdatacollector
 a html parser to collect match data from public web site
 
+ 
  
 #introduction
 A GO module to collect crystal palace results from various public sites. The programme will be used to build the database
